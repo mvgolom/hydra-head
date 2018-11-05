@@ -1,0 +1,16 @@
+certifi==2018.10.15
+chardet==3.0.4
+DateTime==4.3
+dill==0.2.8.2
+idna==2.7
+joblib==0.12.5
+multiprocess==0.70.6.1
+multiprocessing==2.6.2.1
+pathos==0.2.2.1
+pox==0.2.4
+ppft==1.6.4.8
+pymongo==3.7.2
+pytz==2018.7
+requests==2.20.0
+urllib3==1.24
+zope.interface==4.6.0
